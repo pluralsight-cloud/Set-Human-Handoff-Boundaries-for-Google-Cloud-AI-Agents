@@ -1,0 +1,10 @@
+Nova Retail Vendor Approval Rubric
+
+A vendor can be automatically approved when:
+
+- Registered Business Name is provided.
+- Tax ID is provided.
+- Primary Contact is provided.
+- Annual Purchase Limit is $100,000 or less.
+- Compliance Declaration is Accepted.
+- Risk Classification is Low.
